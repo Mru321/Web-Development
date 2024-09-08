@@ -1,2 +1,4 @@
 # Web-Development
-This project is based on basic banking system which contains various functions such as deposit, withdraw, check balance and has login system which contains user Id and passcode for each customer. Through this project I successfully managed to apply the concepts of object oriented programming and java syntax. 
+I recently developed this website to gain complete experience on website development. I learned various things such as organizing the components of a website and creating animations using gsap.
+This project is inspired from an already existing website.
+Original website-   https://cynthiaugwu.com/
